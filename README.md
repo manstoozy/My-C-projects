@@ -1,1 +1,2 @@
 # My-C-projects
+I am a beginner learning C++. My current focus is on understanding the basics of programming, such as variables, data types, loops, and functions. I am practicing how to write simple programs that solve small problems, like calculators or number‑guessing games. My goal is to build a strong foundation in C++ syntax and logic so I can later explore more advanced topics like object‑oriented programming, memory management, and algorithms. I enjoy experimenting with code, debugging errors, and gradually improving my problem‑solving skills.
